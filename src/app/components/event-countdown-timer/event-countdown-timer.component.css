@@ -6,6 +6,24 @@
 .counter-text {
     color: #fff;
     opacity: .7;
-    font-size: 1.8em;
+    font-size: 2em;
     font-weight: 300;
+}
+
+@media (max-width: 991px) {
+    .counter-data {
+        font-size: 3.5em;
+    }
+    .counter-text {
+        font-size: 2em;
+    }
+}
+
+@media (max-width: 767px) {
+    .counter-data {
+        font-size: 2.5em;
+    }
+    .counter-text {
+        font-size: 1.5em;
+    }
 }

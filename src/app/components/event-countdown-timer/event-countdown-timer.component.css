@@ -1,0 +1,11 @@
+.counter-data {
+    color: #fff;
+    font-size: 5em;
+    font-weight: 500;
+}
+.counter-text {
+    color: #fff;
+    opacity: .7;
+    font-size: 1.8em;
+    font-weight: 300;
+}
